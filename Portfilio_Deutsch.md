@@ -44,7 +44,7 @@ Seit über 24 Jahren begeistert mich die Welt der Programmierung. Im Selbststudi
 ## 🗓️ 2023
 
 ### **Insekten Lebensmittel Scanner**
-- **Beschreibung:** Eine App zum schnellen Überprüfen von Lebensmitteln auf möglichen Insektenbefall. Mit Offline-Datenbank für präzise Informationen.  
+- **Beschreibung:** Eine App zum schnellen Überprüfen von Lebensmitteln auf möglichen Insektenbefall.  
 - **Technologien:** Flutter  
 - **Links:** [Google Play Store](https://play.google.com/store/apps/details?id=com.maba.insektenscanner) | [App Store](https://apps.apple.com/dk/app/insect-food-scanner/id6448891136)
 
