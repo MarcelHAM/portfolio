@@ -44,7 +44,7 @@ For over 24 years, I've been passionate about programming. Through self-study, I
 ## 🗓️ 2023
 
 ### **Insect Food Scanner**
-- **Description:** An app for quickly checking food for possible insect content. Includes an offline database for precise information.  
+- **Description:** An app for quickly checking food for possible insect content.  
 - **Technologies:** Flutter  
 - **Links:** [Google Play Store](https://play.google.com/store/apps/details?id=com.maba.insektenscanner) | [App Store](https://apps.apple.com/dk/app/insect-food-scanner/id6448891136)
 
